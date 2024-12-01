@@ -5,7 +5,7 @@ Yazılım geliştirme sürecimin hem ön uç hem de arka uç yönlerini kapsayan
 ---
 ![Proje Demosu](img/coffe-shop.gif)
 
-[Live](https://yavuzahmet1.github.io/fullstack-clarusway/projects/coffee-shop/)
+[Live](https://codedu-collective.github.io/coffe-shop/)
 
 ---
 
