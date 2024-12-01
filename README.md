@@ -1,12 +1,11 @@
 # 📌 Contents of my fullstack projects and lecture notes
 
-It contains my repo information covering both front-end and back-end aspects of my software development process. In this context, I took notes on the methods 
-I saw in both paths during the training process and tried to apply them practically to the projects. If you would like to help me in my development regarding the content, you can let me know. Thank you in advance.
+Yazılım geliştirme sürecimin hem ön uç hem de arka uç yönlerini kapsayan repo bilgilerimi içerir. Bu bağlamda eğitim sürecinde her iki yolda da gördüğüm yöntemleri not aldım ve pratik olarak projelere uygulamaya çalıştım. İçerikle ilgili gelişimimde bana yardımcı olmak isterseniz bana bildirebilirsiniz. Şimdiden teşekkür ederim.
 
 ---
 ![Proje Demosu](img/coffe-shop.gif)
 
-[Live](https://yavuzahmet1.github.io/fullstack-clarusway/projects/coffee-shop/)
+[Live](https://codedu-collective.github.io/coffe-shop/)
 
 ---
 
