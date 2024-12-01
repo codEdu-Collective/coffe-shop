@@ -10,18 +10,6 @@ I saw in both paths during the training process and tried to apply them practica
 
 ---
 
-## 📋 İçindekiler
-
-1. [Hakkında](#hakkında)
-2. [Özellikler](#özellikler)
-3. [Kurulum](#kurulum)
-4. [Kullanım](#kullanım)
-5. [Katkıda Bulunma](#katkıda-bulunma)
-6. [Lisans](#lisans)
-7. [İletişim](#iletişim)
-
----
-
 ## 🔍 Hakkında
 
 Dünyanın dört bir yanından gelen kahve tutkunlarına hitap eden bir marka yaratma hayaliyle yola çıktık. Web sitemiz, sadece bir kahve dükkanı olmanın ötesinde, kahve severlerin tutkularını paylaşabilecekleri bir topluluk oluşturmayı amaçlıyor. Modern tasarımı ve kullanıcı dostu yapısıyla, kahve dünyasına açılan bir kapı olmayı hedefliyoruz. Kahve seçiminden, demleme yöntemlerine kadar her detayı sizin için düşündük. Sıcak bir fincan kahve eşliğinde, hikayemizin bir parçası olmaya davetlisiniz!
