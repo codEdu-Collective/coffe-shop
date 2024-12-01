@@ -20,7 +20,7 @@ I saw in both paths during the training process and tried to apply them practica
 
 ## 🔍 Hakkında
 
-Bu projede **(projenizin kısa açıklaması)** hedeflenmiştir. Bu projenin temel özellikleri ve kullanım alanları:
+Bu projede grid ve flex yapıları ile bootstrap kod parçacıkları entegre edilerek website geliştirmek hedeflenmiştir. Bu projenin temel özellikleri ve kullanım alanları:
 
 - Özellik 1
 - Özellik 2
