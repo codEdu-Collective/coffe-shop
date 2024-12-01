@@ -6,6 +6,8 @@ I saw in both paths during the training process and tried to apply them practica
 ---
 ![Proje Demosu](img/coffe-shop.gif)
 
+[Live](https://yavuzahmet1.github.io/fullstack-clarusway/projects/coffee-shop/)
+
 ## 📋 İçindekiler
 
 1. [Hakkında](#hakkında)
@@ -20,15 +22,13 @@ I saw in both paths during the training process and tried to apply them practica
 
 ## 🔍 Hakkında
 
-<<<<<<< HEAD
-Bu projede **(projenizin kısa açıklaması)** hedeflenmiştir. Bu projenin temel özellikleri ve kullanım alanları:
 =======
 Bu projede grid ve flex yapıları ile bootstrap kod parçacıkları entegre edilerek website geliştirmek hedeflenmiştir. Bu projenin temel özellikleri ve kullanım alanları:
->>>>>>> 064a5d5b435bc39a2c1d4e7c32e472a139e40457
 
-- Özellik 1
-- Özellik 2
-- Özellik 3
+- Modern Tasarım: Flexbox ve Grid yapılarını harmanlayan düzenimiz, her ekran boyutuna uyum sağlayarak kullanıcılarınıza benzersiz bir deneyim sunar.
+- Hızlı ve Duyarlı: Bootstrap'in gücünden yararlanarak hızlı yükleme süreleri ve mobil cihazlar için optimize edilmiş bir site sunuyoruz.
+- Dinamik İçerik: Menü seçeneklerinden, promosyonlara kadar her şeyi kolayca güncelleyebileceğiniz bir yapıya sahiptir.
+- Blog ve yorumlar: yorumlar ve ürünlerimiz kahve kültürüne dair her şey!
 
 ---
 
@@ -40,8 +40,9 @@ Bu projede grid ve flex yapıları ile bootstrap kod parçacıkları entegre edi
 
 ---
 
-## 🛠️ Kurulum
+## 🛠️ Web sitemizi hızlıca kurmak ve kullanmaya başlamak için aşağıdaki adımları izleyin:
 
-Projeyi kendi bilgisayarınıza klonlayın:
+-Dosyaların İndirilmesi: Web sitesi dosyalarını GitHub ya da sağlanan diğer kaynaklardan indirin.
+-Bootstrap ve Kütüphaneler: Projenizde gerekli Bootstrap dosyalarının ve diğer bağımlılıkların (CSS ve JS) yüklü olduğundan emin olun.
+Test ve Yayınlama: Siteyi farklı cihazlarda test edin ve yayınlayın!
 
-```bash
